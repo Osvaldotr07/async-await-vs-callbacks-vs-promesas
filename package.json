@@ -1,0 +1,16 @@
+{
+  "name": "curso-de-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "challenge": "node src/callback/firstChallenge.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
